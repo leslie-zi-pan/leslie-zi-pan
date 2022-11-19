@@ -1,7 +1,7 @@
 <h3 align=center> Hi there, my name is Leslie <img src="Hi.gif" height="32" /> </h3>
 <br/>
 <a href="https://github.com/leslie-zi-pan/leslie-zi-pan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leslie-zi-pan&langs_count=3&hide=shaderlab,hlsl&theme=noctis_minimus"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leslie-zi-pan&langs_count=3,hlsl&theme=noctis_minimus"/>
 </a>
 
 <a href="https://github.com/leslie-zi-pan/leslie-zi-pan">
