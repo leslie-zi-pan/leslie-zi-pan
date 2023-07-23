@@ -1,4 +1,4 @@
-<h3 align=center> Hi there, my name is Leslie.</h3>
+<h3 align=center> Hi there, my name is Leslie. Welcome to my GitHub profile. 😎</h3>
 
 <br/>
 
