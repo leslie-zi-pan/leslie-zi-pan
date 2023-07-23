@@ -43,6 +43,11 @@ I'm a Machine Learning and Software Engineer based in London.
 <a title="Python" href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./assets/python.png" alt="Python" height="50" /></a>  
 <a title="Pytorch" href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="./assets/pytorch.svg" alt="pytorch" height="50" /></a>  
 <a title="Flask" href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="./assets/flask.png" alt="Flask" height="50" /></a>  
+<a title="Pandas" href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="./assets/pandas.png" alt="Flask" height="50" /></a>  
+<a title="NumPy" href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="./assets/numpy.png" alt="NumPy" height="50" /></a>  
+<a title="Scikit Learn" href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="./assets/scikit.svg" alt="Scikit Learn" height="50" /></a>  
+<a title="scipy" href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="./assets/scipy.svg" alt="Scipy" height="50" /></a>  
+<a title="matplotlib" href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="./assets/matplotlib.png" alt="Matplotlib" height="50" /></a>  
 <a title="Tensorflow" href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="./assets/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
 <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./assets/ts.svg" alt="TypeScript" height="50" /></a>  
 <a title="Javascript" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/js.svg" alt="JavaScript" height="50" /></a>  
