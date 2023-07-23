@@ -3,7 +3,7 @@
 Hi there, my name is Leslie.
 I'm a Machine Learning and Software Engineer based in London.
 
-##About me
+## About me
 
 - 💼 Machine Learning Engineer at [EQL](https://www.eql.ai/)
 
