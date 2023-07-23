@@ -27,11 +27,11 @@ I'm a Machine Learning and Software Engineer based in London.
 ### Frontend  
 <div align="center">  
 <a title="React" href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./assets/react.svg" alt="React" height="50" /></a>  
-<a title="CSS" href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./assets/css.svg" alt="CSS3" height="50" /></a>  
-<a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./assets/html.svg" alt="HTML5" height="50" /></a>  
-<a title="Javascript" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/js.svg" alt="JavaScript" height="50" /></a>  
-<a title="Typescript" href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./assets/ts.svg" alt="TypeScript" height="50" /></a>  
+<a title="Typescript" href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./assets/ts.svg" alt="TypeScript" height="50" /></a> 
+<a title="Javascript" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/js.svg" alt="JavaScript" height="50" /></a> 
 <a title="JQuery" href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="./assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./assets/html.svg" alt="HTML5" height="50" /></a>   
+<a title="CSS" href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./assets/css.svg" alt="CSS3" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
