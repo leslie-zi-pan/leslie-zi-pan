@@ -12,7 +12,7 @@ I'm a Machine Learning and Software Engineer based in London.
 - 🗣️ Languages: English, Cantonese
 
 
-|<a href="https://github.com/leslie-zi-pan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leslie-zi-pan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Leslie's github stats" /></a> | <a href="https://github.com/leslie-zi-pan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leslie-zi-pan&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,hls,html" /></a> |
+|<a href="https://github.com/leslie-zi-pan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leslie-zi-pan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Leslie's github stats" /></a> | <a href="https://github.com/leslie-zi-pan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leslie-zi-pan&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,hls,html" /></a> |
 | ------------- | ------------- |
 
 
