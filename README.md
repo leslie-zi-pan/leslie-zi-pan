@@ -1,4 +1,4 @@
-# Personal GitHub Profile
+# Profile
 
 Hi there, my name is Leslie.
 I'm a Machine Learning and Software Engineer based in London.
