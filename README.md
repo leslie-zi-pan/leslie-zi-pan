@@ -41,7 +41,6 @@ I'm a Machine Learning and Software Engineer based in London.
         <a title="Javascript" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/js.svg" alt="JavaScript" height="50" /></a>  
         <a title="C#" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="./assets/c_sharp.png" alt="C#" height="50" /></a>  
         <a title="SQL" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="./assets/sql.png" alt="SQL" height="50" /></a>  
-        <a title="OpenCV" href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="./assets/opencv.svg" alt="OpenCV" height="50" /></a>  
       </div>
     </td>
     <td valign="top" width="25%">
@@ -55,6 +54,7 @@ I'm a Machine Learning and Software Engineer based in London.
         <a title="scipy" href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="./assets/scipy.svg" alt="Scipy" height="50" /></a>  
         <a title="matplotlib" href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="./assets/matplotlib.png" alt="Matplotlib" height="50" /></a>  
         <a title="Tensorflow" href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="./assets/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
+<!--         <a title="OpenCV" href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="./assets/opencv.svg" alt="OpenCV" height="50" /></a>   -->
       </div>
     </td>
     <td valign="top" width="25%">
@@ -63,6 +63,7 @@ I'm a Machine Learning and Software Engineer based in London.
         <a title="Google Cloud Platform" href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="./assets/gcp.png" alt="GCP" height="50" /></a>  
         <a title="Git" href="https://github.com/" target="_blank"><img style="margin: 10px" src="./assets/git.svg" alt="Git" height="50" /></a>  
         <a title="Kubernetes" href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="./assets/kubernetes.svg" alt="Kubernetes" height="50" /></a>  
+        
         <a title="Linux" href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="./assets/linux.svg" alt="Linux" height="50" /></a>  
         <a title="Bash"href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="./assets/bash.svg" alt="Bash" height="50" /></a>  
         <a title="Docker" href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="./assets/docker.svg" alt="Docker" height="50" /></a>  
