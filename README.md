@@ -63,7 +63,6 @@ I'm a Machine Learning and Software Engineer based in London.
         <a title="Google Cloud Platform" href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="./assets/gcp.png" alt="GCP" height="50" /></a>  
         <a title="Git" href="https://github.com/" target="_blank"><img style="margin: 10px" src="./assets/git.svg" alt="Git" height="50" /></a>  
         <a title="Kubernetes" href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="./assets/kubernetes.svg" alt="Kubernetes" height="50" /></a>  
-        
         <a title="Linux" href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="./assets/linux.svg" alt="Linux" height="50" /></a>  
         <a title="Bash"href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="./assets/bash.svg" alt="Bash" height="50" /></a>  
         <a title="Docker" href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="./assets/docker.svg" alt="Docker" height="50" /></a>  
