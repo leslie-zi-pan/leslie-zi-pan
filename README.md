@@ -1,7 +1,13 @@
 # Profile
 
-Hi there, my name is Leslie.
-I'm a Machine Learning and Software Engineer based in London.
+Hi there, my name is Leslie. 
+I am an End-to-End AI Engineer, focusing on building and deploying production-ready machine learning solutions on Google Cloud Platform (GCP). 
+My experience spans the full MLOps lifecycle, from utilizing GCP tools like Vertex AI and BigQuery, to applying state-of-the-art Generative AI (LLM) skills, including building solutions with LangChain. 
+
+## Interests
+- Generative AI & Langchain
+- Application of Active Inference & Digital Twins within the business operations
+- ML Solutions in GCP
 
 ## About me
 
