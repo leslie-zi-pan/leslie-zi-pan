@@ -1,86 +1,75 @@
 # Profile
 
-Hi there, my name is Leslie. 
+Hi there, my name is Leslie.
 
-I am an End-to-End AI Engineer, focusing on building and deploying production-ready machine learning solutions on Google Cloud Platform (GCP). 
-My experience spans the full MLOps lifecycle, from utilizing GCP tools like Vertex AI and BigQuery, to applying state-of-the-art Generative AI (LLM) skills, including building solutions with LangChain. 
+I am an AI Engineer and Platform Engineer, building production
+agentic AI systems for clinical musculoskeletal (MSK) triage. My work spans two halves: the AI
+layer — multi-agent orchestration with LangGraph, structured outputs, evals and tracing — and the
+platform beneath it, where I own the GCP data architecture, infrastructure-as-code, and cost.
 
-## Interests
-- Generative AI & Langchain
-- Application of Active Inference & Digital Twins
-- ML Solutions in GCP
+The through-line is a single architectural view: generative AI works best as an *interface* to
+mathematically grounded, deterministic-probabilistic backends. In a regulated clinical domain a
+system has to be calibrated, explainable and auditable, not merely fluent. Most of what I build
+and study serves that goal.
+
+## What I work on
+
+- **Agentic systems in production** — LangGraph multi-agent architectures, stateful session
+  orchestration, structured outputs, evaluation harnesses, and LangSmith tracing for explainable
+  execution paths in a regulated setting.
+- **The data platform** — a BigQuery Medallion architecture (Bronze/Silver/Gold) with Dataform
+  transformations, provisioned via Terraform, serving as the analytical cold layer for an MSK
+  digital-twin framework.
+- **Bayesian grounding** — probabilistic models and likelihood-ratio reasoning used to constrain
+  generative output, so clinical recommendations rest on something defensible.
+
+## Selected work
+
+- **LangChain v1.0 production migration** — led the refactor of 40+ production notebooks to
+  LangChain v1.0 and Python 3.12: native structured output, explicit legacy boundaries, and a move
+  to explicit state passing.
+- **Analytical cold layer** — built the BigQuery and Dataform platform with fine-grained dataset permissions and version-controlled
+  transformations.
+- **Infrastructure as code** — standardised Terraform across data environments for reproducible,
+  auditable provisioning.
+- **Cloud cost optimisation** — a GCP FinOps audit across BigQuery and Firestore, securing six
+  figures in confirmed annual savings.
+
+## Research interests
+
+I am working through a long-form self-study programme at the convergence of three areas, aimed at
+building an **Active Digital Twin**:
+
+- **Bayesian methods** — graphical models, variational inference, filtering, and model comparison.
+- **Active inference and the Free Energy Principle** — discrete and continuous formulations,
+  predictive coding, and expected-free-energy-driven decision making.
+- **Digital twins** — data assimilation, surrogate and physics-informed models, and the
+  uncertainty and V&V layer (calibration, conformal prediction, SaMD credibility) that makes a
+  clinical twin deployable rather than a demo.
 
 ## About me
 
-- 💼 Machine Learning Engineer at [EQL](https://www.eql.ai/)
+- AI Engineer and Platform Lead Engineer
+- <code title="King's College London"><img height="20" width="20" alt="KCL" src="./assets/kcl.svg"></code> Healthcare Technologies (AI Pathway) MSc | Physics with Medical Applications BSc Hons
+- MITx MicroMasters in Statistics and Data Science (in progress)
+- Google Cloud Professional Machine Learning Engineer
+- Languages: English, Cantonese
 
-- <code title="King's College London"><img height="20" width="20" alt="Python" src="./assets/kcl.svg"></code> Healthcare Technologies (AI Pathway) MSc | Physics with Medical Applications BSc Hons 
+## Stack
 
-- 🗣️ Languages: English, Cantonese
-
-
-|<a href="https://github.com/leslie-zi-pan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leslie-zi-pan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Leslie's github stats" /></a> | <a href="https://github.com/leslie-zi-pan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leslie-zi-pan&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,hls,html" /></a> |
-| ------------- | ------------- |
-
+| Area | Tools |
+| --- | --- |
+| **AI orchestration** | LangGraph · LangChain · LangSmith · Vertex AI · evals & tracing |
+| **Cloud & data** | GCP · BigQuery · Dataform · Terraform · Pub/Sub · Cloud Run · Cloud Functions · Firestore |
+| **Scientific Python** | NumPy · SciPy · pandas · scikit-learn · PyTorch · matplotlib |
+| **Languages** | Python · TypeScript · Node.js · SQL · C# |
+| **Front end** | React · Tailwind CSS |
+| **Practices** | Medallion architecture · Infrastructure as Code · FinOps · TDD |
 
 <br/>
-
-
-## My Skill Set  
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <h2><strong>Frontend</strong></h2>  
-      <div align="center">  
-        <a title="React" href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./assets/react.svg" alt="React" height="50" /></a>  
-        <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./assets/ts.svg" alt="TypeScript" height="50" /></a> 
-<!--         <a title="Javascript" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/js.svg" alt="JavaScript" height="50" /></a>  -->
-<!--         <a title="JQuery" href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="./assets/jquery.png" alt="jQuery" height="50" /></a>   -->
-<!--         <a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./assets/html.svg" alt="HTML5" height="50" /></a>    -->
-<!--         <a title="CSS" href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./assets/css.svg" alt="CSS3" height="50" /></a>    -->
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h2><strong>Backend</strong></h2> 
-      <div align="center">  
-        <a title="Python" href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./assets/python.png" alt="Python" height="50" /></a>  
-        <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./assets/ts.svg" alt="TypeScript" height="50" /></a>  
-<!--         <a title="Javascript" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/js.svg" alt="JavaScript" height="50" /></a>   -->
-<!--         <a title="C#" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="./assets/c_sharp.png" alt="C#" height="50" /></a>   -->
-        <a title="SQL" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="./assets/sql.png" alt="SQL" height="50" /></a>  
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h2><strong>Packages</strong></h2> 
-      <div align="center">  
-        <a title="Pytorch" href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="./assets/pytorch.svg" alt="pytorch" height="50" /></a>  
-        <a title="Flask" href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="./assets/flask.png" alt="Flask" height="50" /></a>  
-        <a title="Pandas" href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="./assets/pandas.png" alt="Pandas" height="50" /></a>  
-        <a title="NumPy" href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="./assets/numpy.png" alt="NumPy" height="50" /></a>  
-        <a title="Scikit Learn" href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="./assets/scikit.svg" alt="Scikit Learn" height="50" /></a>  
-        <a title="scipy" href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="./assets/scipy.svg" alt="Scipy" height="50" /></a>  
-        <a title="matplotlib" href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="./assets/matplotlib.png" alt="Matplotlib" height="50" /></a>  
-        <a title="Tensorflow" href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="./assets/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
-<!--         <a title="OpenCV" href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="./assets/opencv.svg" alt="OpenCV" height="50" /></a>   -->
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h2><strong>DevOps</strong></h2> 
-      <div align="center">  
-        <a title="Google Cloud Platform" href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="./assets/gcp.png" alt="GCP" height="50" /></a>  
-        <a title="Git" href="https://github.com/" target="_blank"><img style="margin: 10px" src="./assets/git.svg" alt="Git" height="50" /></a>  
-        <a title="Kubernetes" href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="./assets/kubernetes.svg" alt="Kubernetes" height="50" /></a>  
-<!--         <a title="Linux" href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="./assets/linux.svg" alt="Linux" height="50" /></a>   -->
-<!--         <a title="Bash"href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="./assets/bash.svg" alt="Bash" height="50" /></a>   -->
-        <a title="Docker" href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="./assets/docker.svg" alt="Docker" height="50" /></a>  
-        <a title="Firebase" href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="./assets/firebase.png" alt="Firebase" height="50" /></a>  
-      </div>
-    </td>
-  </tr>
-</table>  
-
-<br/>  
-
+<a href="https://github.com/leslie-zi-pan"><img align="center" src="https://github-stats-extended.vercel.app/api?username=leslie-zi-pan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&hide_title=true" alt="Leslie's GitHub stats" /></a>
+ 
 <!--
-**leslie-zi-pan/leslie-zi-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leslie-zi-pan/leslie-zi-pan** is a special repository because its `README.md` (this file)
+appears on your GitHub profile.
 -->
