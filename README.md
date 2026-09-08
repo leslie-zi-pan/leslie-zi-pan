@@ -3,12 +3,12 @@
 Hi there, my name is Leslie.
 
 I am an AI Engineer and Platform Engineer, building production
-agentic AI systems for clinical musculoskeletal (MSK) triage. My work spans two halves: the AI
+agentic AI systems. My work spans two halves: the AI
 layer — multi-agent orchestration with LangGraph, structured outputs, evals and tracing — and the
 platform beneath it, where I own the GCP data architecture, infrastructure-as-code, and cost.
 
 The through-line is a single architectural view: generative AI works best as an *interface* to
-mathematically grounded, deterministic-probabilistic backends. In a regulated clinical domain a
+mathematically grounded, deterministic-probabilistic backends. In a regulated domain a
 system has to be calibrated, explainable and auditable, not merely fluent. Most of what I build
 and study serves that goal.
 
@@ -26,7 +26,7 @@ and study serves that goal.
 ## Selected work
 
 - **LangChain v1.0 production migration** — led the refactor of 40+ production notebooks to
-  LangChain v1.0 and Python 3.12: native structured output, explicit legacy boundaries, and a move
+  LangChain v1.0 and Python upgrades: native structured output, explicit legacy boundaries, and a move
   to explicit state passing.
 - **Analytical cold layer** — built the BigQuery and Dataform platform with fine-grained dataset permissions and version-controlled
   transformations.
