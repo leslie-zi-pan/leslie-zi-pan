@@ -49,7 +49,7 @@ building an **Active Digital Twin**:
 
 ## About me
 
-- AI Engineer and Platform Lead Engineer
+- AI Engineer and Platform Engineer
 - <code title="King's College London"><img height="20" width="20" alt="KCL" src="./assets/kcl.svg"></code> Healthcare Technologies (AI Pathway) MSc | Physics with Medical Applications BSc Hons
 - Google Cloud Professional Machine Learning Engineer
 - Languages: English, Cantonese
