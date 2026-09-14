@@ -51,7 +51,7 @@ building an **Active Digital Twin**:
 
 - AI Engineer and Platform Engineer
 - <code title="King's College London"><img height="20" width="20" alt="KCL" src="./assets/kcl.svg"></code> Healthcare Technologies (AI Pathway) MSc | Physics with Medical Applications BSc Hons
-- Google Cloud Professional Machine Learning Engineer
+- <code title="GCP Professional Machine Learning Engineer Certification"><img height="20" width="20" alt="KCL" src="./assets/gcp-ml.png"></code> Google Cloud Professional Machine Learning Engineer
 - Languages: English, Cantonese
 
 ## Stack
